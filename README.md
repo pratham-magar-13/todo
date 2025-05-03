@@ -1,6 +1,6 @@
 To-Do List App(Spring Boot)
 
-A simple and clan **To-Do List** web application built with **Spring Boot**. This project lets a user manage their tasks - add, view, update and delete
+A simple and clean **To-Do List** web application built with **Spring Boot**. This project lets a user manage their tasks - add, view, update and delete
 
 Features
 - Add new tasks
