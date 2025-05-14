@@ -18,7 +18,6 @@ Tech Stack
 - Lombok
 - Devtools
 
-Running locally
-1. Clone the repository
-2. Open the project with preferred IDE
-3. Build and then Run.
+Screenshots
+
+![Screenshot 2025-05-14 182912](https://github.com/user-attachments/assets/fae24d86-93cd-4b14-9fcf-203e423099ea)
